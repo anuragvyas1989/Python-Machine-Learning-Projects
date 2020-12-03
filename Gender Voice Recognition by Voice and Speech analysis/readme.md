@@ -1,1 +1,3 @@
-This is ML program to classify a person as male or female based on their voice pattern.
+- This is ML program to classify a person as male or female based on their voice pattern.
+- Algorithm to understand and classify if a person is male or female based on voice pattern
+- This can be first step to further identify and develop an AI model for speech recognition
