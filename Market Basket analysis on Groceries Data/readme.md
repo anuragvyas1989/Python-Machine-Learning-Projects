@@ -1,1 +1,3 @@
-ML algorithm to apply market basket analysis on Groceries Data
+- ML algorithm to apply market basket analysis on Groceries Data
+- Market Basket Analysis is done by organizations so as to get itemsets that are frequent and regularly utilized together by customers. Apriori algorithm is a generally utilized system so as to discover those combinations of itemsets.
+- It identifies parts which are often bought together and hence can be recommended to the user or be placed accordingly.
