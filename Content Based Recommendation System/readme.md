@@ -1,1 +1,3 @@
-ML algorithm to apply content based recommendation system
+- Content-based filtering uses item features to recommend other items similar to what the user likes, based on their previous actions or explicit feedback.
+- TF-IDF (Term Frequency - Inverse Document Fequency is used in this example to calculate the frequency and find the cosine similarity between various items
+- ML algorithm to apply content based recommendation system
