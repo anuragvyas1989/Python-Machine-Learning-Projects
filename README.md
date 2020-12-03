@@ -32,7 +32,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 ![enter image description here](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Images/Groceries.jpg)<br>
 - **Market Basket Analysis** is done by organizations so as to get itemsets that are frequent and regularly utilized together by customers. **Apriori algorithm** is a generally utilized system so as to discover those combinations of itemsets.
 - It identifies parts which are often bought together and hence can be recommended to the user or be placed accordingly.
-- [Link for the Jupyter notebook](./SpamDetection/Spam&Ham.ipynb)
+- [Link for the Jupyter notebook](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Market%20Basket%20analysis%20on%20Groceries%20Data/Market%20Basket%20Analysis%20-%20Groceries%20Data.ipynb)
 
 
 ___
@@ -41,5 +41,5 @@ ___
 ![enter image description here](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Images/Recommendation%20Systems.jpg)<br>
 - Content-based filtering uses item features to recommend other items similar to what the user likes, based on their previous actions or explicit feedback.
 - TF-IDF (Term Frequency - Inverse Document Fequency is used in this example to calculate the frequency and find the cosine similarity between various items
-- [Link for the Jupyter notebook](./CustomerSegmentationUsingRFM/Clustering.ipynb)
+- [Link for the Jupyter notebook](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Content%20Based%20Recommendation%20System/Content%20Based%20Recommendation%20System.ipynb)
 
