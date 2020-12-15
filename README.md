@@ -10,6 +10,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [House Sale Price Calculation ](#section2)<br>
 - [Market Basket Analysis on Groceries Data](#section3)<br>
 - [Content based Recommendation system](#section4)<br>
+- [HR attrition prediction using LDA dimensionality reduction](#section5)<br>
 
 <a id=section1></a>
 ### [Gender Voice Recognition by Voice and Speech analysis](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/tree/main/Gender%20Voice%20Recognition%20by%20Voice%20and%20Speech%20analysis)
@@ -43,3 +44,13 @@ ___
 - TF-IDF (Term Frequency - Inverse Document Fequency is used in this example to calculate the frequency and find the cosine similarity between various items
 - [Link for the Jupyter notebook](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Content%20Based%20Recommendation%20System/Content%20Based%20Recommendation%20System.ipynb)
 
+
+___
+<a id=section5></a>
+### [HR attrition prediction using LDA dimensionality reduction](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/tree/main/HR%20Attrition%20prediction%20using%20LDA)
+![enter image description here](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Images/HR%20management.png)<br>
+- LDA is a dimensionality reduction technique but in a supevised dataset. Target variable has to be categorical.
+- LDA can also be used to predict the target vaiable. 
+- In the example various algorithms are compared with LDA as dimensionality reduction
+- In this dataset of HR attrition, various features are used by HR to predict if an employee will leave the company or not.
+- [Link for the Jupyter notebook](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/HR%20Attrition%20prediction%20using%20LDA/Dimensionality%20Reduction%20using%20LDA%20and%20prediction%20using%20multiple%20algorithms.ipynb)
