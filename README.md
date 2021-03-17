@@ -11,6 +11,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Market Basket Analysis on Groceries Data](#section3)<br>
 - [Content based Recommendation system](#section4)<br>
 - [HR attrition prediction using LDA dimensionality reduction](#section5)<br>
+- [Telecom churn prediction using Deep learning](#section6)<br>
 
 <a id=section1></a>
 ### [Gender Voice Recognition by Voice and Speech analysis](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/tree/main/Gender%20Voice%20Recognition%20by%20Voice%20and%20Speech%20analysis)
@@ -54,3 +55,16 @@ ___
 - In the example various algorithms are compared with LDA as dimensionality reduction
 - In this dataset of HR attrition, various features are used by HR to predict if an employee will leave the company or not.
 - [Link for the Jupyter notebook](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/HR%20Attrition%20prediction%20using%20LDA/Dimensionality%20Reduction%20using%20LDA%20and%20prediction%20using%20multiple%20algorithms.ipynb)
+
+
+___
+<a id=section6></a>
+### [Telecom churn prediction using Deep learning](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/tree/main/Telecom%20churn%20prediction%20using%20Deep%20learning)
+![enter image description here](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Telecom%20churn%20prediction%20using%20Deep%20learning/Telecom%20churn.png)<br>
+- Telecom Customer Churn identification is a unique case study where we calculate if a user will churn or not based on various personal and usage details of the user with the company.
+
+Deep Learning concepts used: 
+- Dropouts: Dropout is a regularization method that tries to minimize the effect of ovefitting. Here particular node in a layer is randomly dropped out thus making a look alike layer with no dropped out nodes of the hidden layer. Nodes are dropped out randomly and allows algorithm to learn by giving opportunity to all nodes.
+- Callbacks: Callbacks are methods called after execution of each epoch. They are primarily used to monitor the algorithm run and store necessary variables. Two callback functions used here are: Early stopping callback: This monitors the given variable to check if there is no change in the value of variable over a given time (patience) and asks the algortihm to stop processing further. This reduces the processing time. Model Checkpoint: Here the model with best monitor variable value is stored in a file which can be used later to get the best result.
+- Regularization: To avoid overfitting, regularization is used to avoid algorithm to learn completely from the training data and have very low validation accuracy or high validation loss. Essentially system restricts blowing up of parameters during training the algorithm.
+- [Link for the Jupyter notebook](https://github.com/anuragvyas1989/Python-Machine-Learning-Projects/blob/main/Telecom%20churn%20prediction%20using%20Deep%20learning/Telecom%20churn%20prediction%20using%20Keras%20API%20deep%20learning%20model.ipynb)
